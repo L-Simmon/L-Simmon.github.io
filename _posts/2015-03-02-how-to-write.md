@@ -9,6 +9,11 @@ description: 这里是description
 
 博客正文测试
 
+$$
+R_{\mu \nu} - {1 \over 2}g_{\mu \nu}\,R + g_{\mu \nu} \Lambda
+= {8 \pi G \over c^4} T_{\mu \nu}
+$$
+
 
 
 
