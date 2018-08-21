@@ -16,6 +16,10 @@ $$
 
 上面有公式
 
+下面有我的头像：
+
+<img src="https://picture-1257339179.cos.ap-chengdu.myqcloud.com/%E5%A4%B4%E5%83%8F.png" alt="头像" />
+
 
 
 
